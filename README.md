@@ -129,4 +129,4 @@ sudo iptables-save
 ```
 
 ## Reflection
-[Short reflection on project - Remove this afterwards]
+Creating this firewall was an important project. Being able to access the server from the internet and feeling comfortable doing so was a goal from the very beginning. Although it wasn't perfect, it did provide an added layer of security that was lacking. While not feeling comfortable with having the server on permanently, it eased the concerns about having the server connected to the internet at all. 
